@@ -20,5 +20,3 @@ Katherine Wang
 Sahir Kochhar
 Tej Naganathan
 Vincent Pham
-
-UCSD COGS108 WI18
