@@ -1,10 +1,24 @@
+Data Analysis of the different atributes that make a song popular using data
+from Spotify song charts from 2004 to 2018. Songs are ranked by total number of
+streams, which also implies that popularity of a song can be seen through total
+number of streams it has.
 
-This is your group repository for your final project for COGS108. This repostory is private, including to other students in the class, but visible to all COGS108 instructors.
+Anaylsis and data visualizations are shown in NextHit.ipynb
 
-We have uploaded your Project Proposal here, and will provide comments and feedback on it here, as an issue. In the meantime, you are welcome and encouraged to use this repository to get started working on your project. 
+More details on project could be found in ProjectProposal.ipynb (Final project
+results may differ from initial ideas in proposal, but the proposal carries the
+inital ideas)
 
-This repository will be frozen on the due date - at 11:59pm on Thursday, March 22nd, 2018.
+Data has been scraped from website and saved to a csv file to avoid scraping
+every time the notebook is run. But if needed can rescrape data using the cells
+under the Data Cleaning section.
 
-Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date. 
+Members that worked on this project:
+Connie Luong
+Courtney Ko
+Katherine Wang
+Sahir Kochhar
+Tej Naganathan
+Vincent Pham
 
-Your final project will be graded based solely on that project notebook - make sure it has everything included and displayed (with code outputs) to evaluate your project. 
+UCSD COGS108 WI18
